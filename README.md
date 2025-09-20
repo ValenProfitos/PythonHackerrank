@@ -21,3 +21,17 @@
     - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/ValenProfitos/PythonHackerrank/blob/main/Introduction/writeAFunction.py) | Score: 10
 
     - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/ValenProfitos/PythonHackerrank/blob/main/Introduction/printFuncton.py) | Score: 20
+
+- [Basic Data Types]()
+
+  - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution]() | Score: 
+
+  - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution]() | Score: 
+
+  - Nested Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution]() | Score: 
+
+  - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution]() | Score: 
+
+  - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution]() | Score: 
+
+  - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution]() | Score: 
